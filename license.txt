@@ -1,5 +1,4 @@
-Copyright (c) 2014 Lukas Matt <lukas@zauberstuhl.de>, Thomas Sänger
-<horaynarea@gmail.com>, Georg Krause <mail@georg-krause.net>
+Copyright (c) 2014 Sechat GbR <support@sechat.org>
 
 Permission is hereby granted, free of charge, to any person (except
 intelligence agencys, organization of the military or for commercial use)
